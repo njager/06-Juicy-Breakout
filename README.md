@@ -1,6 +1,6 @@
 # 06-Juicy-Breakout
 
-Added effects: 1. colors to paddle and tiles and ball, 2. dropping in animation for spawning of objects, 3. squeezing and stretching of paddle, 4. animated size of ball upon impact, 5. wobble of ball after hitting something, 6. animated color of ball after it hits something, 7. added particle effect when a block is hit, 8. blocks fall off screen when hit, 9. blocks rotate when hit, 10. ball has a comet trail, 11. tiles shake when ball hits paddle, 
+Added effects: 1. colors to paddle and tiles and ball, 2. dropping in animation for spawning of objects, 3. squeezing and stretching of paddle, 4. animated size of ball upon impact, 5. wobble of ball after hitting something, 6. animated color of ball after it hits something, 7. added particle effect when a block is hit, 8. blocks fall off screen when hit, 9. blocks rotate when hit, 10. ball has a comet trail, 11. tiles shake when ball hits paddle, 12. screen shake upon ball contact with surfaces, 13. sound effects upon ball contact with surfaces, 14. music plaing, 15. added eyes to the ball, 16. eyes follow the ball, 17. added animated smile to the ball, 18. added background, 19. added particles to paddle when hit, 20. added rotation to ball
 
 This is an opportunity for you to implement some of the "juicy" features as demonstrated in the 2012 GDC presentation, "Juice it or Lose it."
 
